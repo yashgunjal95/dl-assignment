@@ -1,6 +1,6 @@
 import { useState} from "react";
 import {
-  BarChart, Bar, LineChart, Line, RadarChart, Radar, PolarGrid,
+  BarChart, Bar, RadarChart, Radar, PolarGrid,
   PolarAngleAxis, PolarRadiusAxis, ScatterChart, Scatter,
   XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer,
   Cell, ReferenceLine
